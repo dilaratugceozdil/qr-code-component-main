@@ -1,4 +1,4 @@
-# qr-code-component-main
+# 🟣 qr-code-component-main
 Hello everybody! 👋
 
 🌷 Welcome to the QR-App repository! 
