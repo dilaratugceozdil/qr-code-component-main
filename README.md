@@ -12,7 +12,7 @@ This project is a simple web application that allows users to generate QR codes 
 - Responsive Design: The application is built with a responsive design, ensuring compatibility and usability across different devices and screen sizes.
   <br />
 
-## 👀 Overview
+## 🔍 Overview
 To view the website, simply open the index.html file in your web browser.
 To contribute to the project, feel free to fork this repository and make your changes. Don't forget to submit a pull      request if you'd like your changes to be reviewed and merged.
 
